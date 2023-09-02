@@ -11,7 +11,7 @@ I built this because I got tired of using Chrome, Edge, and other browsers that 
 
 I will be working on implementing a few other functions into the app over time. Functions such as: tabbed browsing, bookmarks, .pdf .xml. html and other formats of file viewing.
 
-Star this repo to keep up with updates and new versions along the way, and do away with all those clunky browsers that like to send your information all over the place!
+Star and watch this repo to keep up with updates and new versions along the way, and do away with all those clunky browsers that like to send your information all over the place!
 
 Should you decide to clone this repo, make sure to keep the .py file and .ico file together, as the script calls for the .ico file. Otherwise, your system will fail to run the script.
 
