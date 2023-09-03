@@ -26,6 +26,6 @@ To run as a python script on windows without depending on the terminal staying o
 pythonw .\private_browser.py
 
 On Linux based systems, open a terminal in the directory containing the .py file and use:
-DISPLAY=:0 nohup python3 $(find / -name "case_fan_tach.py" 2>/dev/null) >/dev/null 2>&1 &
+DISPLAY=:0 nohup python3 $(find / -name "private_browser.py" 2>/dev/null) >/dev/null 2>&1 &
 
 Thanks for trying out this simple web browser, and I hope you enjoy!
