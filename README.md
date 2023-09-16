@@ -13,6 +13,8 @@
 
 - Python 3.x
 - PyQt5
+- Python3-pyqt5.qtwebengine(Linux users)
+- pyqtwebengine(Windows users)
 
 ## Getting Started
 
