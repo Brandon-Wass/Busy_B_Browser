@@ -25,7 +25,7 @@ git clone https://github.com/B-Boone/Busy_B_Browser
 2. Change into the project directory:
 
 ```
-cd your_repository
+cd Busy_B_Browser
 ```
 
 3. Install the required dependencies:
@@ -37,7 +37,7 @@ sudo pip3 install PyQt5 && sudo apt-get install -y python3-pyqt5.qtwebengine
 4. Run the browser:
 
 ```
-python browser.py
+python3 private_browser.py
 ```
 
 ## Usage
