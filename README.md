@@ -16,29 +16,55 @@
 
 ## Getting Started
 
+**WINDOWS USERS**
+
+1. Download the zip file from above ^^^
+
+```
+HINT: Its the green button that says 'Code\/'
+```
+
+2. Right click the .zip file and click 'Extract All...' to:
+
+```
+C:\Users\<username>\Downloads\
+```
+
+3. Open command prompt and change into the project directory:
+
+```
+cd .\Downloads\Busy_B_Browser-main\
+```
+
+3. Install dependencies:
+
+```
+pip3 install pyqt5 pyqtwebengine pyinstaller pillow
+```
+
+4. Create an executable file from the python script:
+
+```
+pyinstaller -w -F -i .\busyb.ico .\private_browser.py
+```
+
+5. Open File Explorer to the .exe file:
+
+```
+C:\Users\<username>\Downloads\Busy_B_Browser-main\dist\
+```
+
+6. Cut or copy the application file to anywhere on your drive, and double-click it to run the browser!
+
+**LINUX USERS**
+
 1. Clone the repository:
 
 ```
 git clone https://github.com/B-Boone/Busy_B_Browser
 ```
 
-**WINDOWS USERS**
-
-2. Open the directory in File Explorer:
-
-```
-Busy_B_Browser
-```
-
-3. Double click the .exe file:
-
-```
-private_browser.exe
-```
-
-**LINUX USERS**
-
-2. Change into the project directory:
+2. Open terminal and change into the project directory:
 
 ```
 cd Busy_B_Browser
