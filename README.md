@@ -19,7 +19,7 @@
 1. Clone the repository:
 
 ```
-git clone https://github.com/your_username/your_repository.git
+git clone https://github.com/B-Boone/Busy_B_Browser
 ```
 
 2. Change into the project directory:
@@ -31,7 +31,7 @@ cd your_repository
 3. Install the required dependencies:
 
 ```
-sudo pip3 install PyQt5 && sudo apt-get install python3-pyqt5.qtwebengine
+sudo pip3 install PyQt5 && sudo apt-get install -y python3-pyqt5.qtwebengine
 ```
 
 4. Run the browser:
