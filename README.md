@@ -34,7 +34,7 @@ HINT: Its the green button that says 'Code\/'
 C:\Users\<username>\Downloads\
 ```
 
-3. Open command prompt and change into the project directory:
+3. Delete the .zip file, then open command prompt and change into the project directory:
 
 ```
 cd .\Downloads\Busy_B_Browser-main\
