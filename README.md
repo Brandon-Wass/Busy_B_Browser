@@ -15,6 +15,8 @@
 - PyQt5
 - Python3-pyqt5.qtwebengine(Linux users)
 - pyqtwebengine(Windows users)
+- pyinstaller(Windows users)
+- pillow(Windows users)
 
 ## Getting Started
 
