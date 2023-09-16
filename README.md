@@ -21,7 +21,7 @@
 1. Download the zip file from above ^^^
 
 ```
-HINT: Its the green button that says 'Code\/'
+HINT: Its the green button that says '<>Code\/'
 ```
 
 2. Right click the .zip file and click 'Extract All...' to:
