@@ -23,6 +23,7 @@ git clone https://github.com/B-Boone/Busy_B_Browser
 ```
 
 **WINDOWS USERS**
+
 2. Open the directory in File Explorer:
 
 ```
@@ -36,6 +37,7 @@ private_browser.exe
 ```
 
 **LINUX USERS**
+
 2. Change into the project directory:
 
 ```
